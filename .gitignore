@@ -1,0 +1,4 @@
+apiKey.txt
+.cache/
+dist/
+node_modules/

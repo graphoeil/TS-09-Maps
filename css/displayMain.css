@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* /////////////////////////////// */
+/*               BODY              */
+/* /////////////////////////////// */
+body,html{ -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; height: 100%; }
+*{ box-sizing: border-box; text-decoration: none; outline: none; }
+
+/* /////////////////////////////// */
+/*           GLOBAL CLASSES        */
+/* /////////////////////////////// */
+#map{
+	width: 100%;
+	height: 100%;
+}
